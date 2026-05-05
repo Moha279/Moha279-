@@ -44,7 +44,7 @@ I actively use **AI-assisted development tools** to improve productivity and acc
 - Automated build pipeline with Gradle and implemented testing with JUnit  
 - Managed CI/CD workflows with GitLab  
 
-Repository: https://github.com/Moha279/Montagsmaler-Pictionary-inspired-Game  
+🔗 [View Repository](https://github.com/Moha279/Montagsmaler-Pictionary-inspired-Game)  
 
 ---
 
@@ -53,7 +53,16 @@ Repository: https://github.com/Moha279/Montagsmaler-Pictionary-inspired-Game
 - Conducted user research, prototyping, and evaluation  
 - Led documentation across all project phases  
 
-Repository: https://github.com/Moha279/feedback-system  
+🔗 [View Repository](https://github.com/Moha279/feedback-system)  
+
+---
+
+## Experience Highlights
+
+- Led a team of 5 and improved workflow efficiency  
+- Reduced process error rate by 10%  
+- Delivered high-volume production under strict deadlines  
+- Provided IT support (hardware, software, networking)
 
 ---
 
