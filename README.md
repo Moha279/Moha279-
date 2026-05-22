@@ -57,15 +57,6 @@ I actively use **AI-assisted development tools** to improve productivity and acc
 
 ---
 
-## Experience Highlights
-
-- Led a team of 5 and improved workflow efficiency  
-- Reduced process error rate by 10%  
-- Delivered high-volume production under strict deadlines  
-- Provided IT support (hardware, software, networking)
-
----
-
 ## Connect with Me
 
 <p align="center">
