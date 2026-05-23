@@ -18,7 +18,7 @@
 ## About Me
 
 Computer Science student at Leibniz University Hannover with a focus on **Java development and Machine Learning**.  
-I build **practical, user-focused applications** and have a strong interest modern software architectures**.  
+I build **practical, user-focused applications** and have a strong interest modern software architectures.  
 I actively use **AI-assisted development tools** to improve productivity and accelerate prototyping.
 
 ---
